@@ -8,7 +8,7 @@ TesseractX is not just another NFT Marketplace - it’s the revolution in the NF
 TesseractX is an NFT (Non-Fungible Token) marketplace designed to offer the most affordable, quick, and rewarding trading platform in the digital assets universe. Our mission is to create a decentralized platform where artists, collectors, and enthusiasts can easily mint, purchase, and trade NFTs at minimal cost, lightning speed, and with lucrative rewards. 
 
 **Why TesseractX?**
-- 💸 **Value:** 1.5% marketplace fees (minting, buying & selling) only network gas is paid. 
+- 💸 **Value:** 1.5% marketplace fees.
 - ⚡ **Fastest:** Experience lightning-fast transactions on PulseChain & Base 
 - 🎉 **Rewarding:** Our users enjoy frequent rewards and robust incentives.
 - 💡 **Innovative:** Details to be added on go live!
