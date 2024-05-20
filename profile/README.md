@@ -40,9 +40,9 @@ We believe in the power of community! Your contributions are what will make Tess
 
 ## 💌 Connect with Us 
 
-Should you have any queries, need support, or just want to chat - feel free to reach out to us at [support@tesseractx.com](mailto:support@tesseractx.com) or join our [Telegram](https://t.me/TesseractXcom).
+Should you have any queries, need support, or just want to chat - feel free to reach out to us over at [Twitter](https://x.com/tesseractxnfts).
 
 ---
 
-💡 Remember: "*Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.*" - Einstein 🧠🌌
+💡 Remember: "*In the wave lies the secret of creation*" — Walter Russell 🧠🌌
 
